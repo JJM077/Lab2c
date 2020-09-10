@@ -38,7 +38,7 @@ int main(void) {
     printf("Your letter grade for CMPSC 131 is D.\n");
   }
   else {
-    printf("Your letter grade for CMPSC is F.\n");
+    printf("Your letter grade for CMPSC 131 is F.\n");
   }
   return 0;
 }
